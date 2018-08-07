@@ -26,6 +26,10 @@ Concluimos que hacer un análisis de datos es importante para saber lo que la ge
 El cambio de idioma es importante para tener una base de datos más amplia a pesar de que en cada país tiene sus propias palabras que hacen que siga habiendo tweets neutrales. 
 Las herramientas usadas son unas de las más factibles a pesar de que se podría mejor con otras herramientas.
 
+-----Trabajo a futuro----
+Con mayor tiempo se podría hacer un mejor análisis de texto, ya sean con palabras propias de cada región para tener una mejor fidelidad en el análisis de sentimientos.
+El análisis te tweets es un trabajo que hoy en día se da y con las herramientas dadas y encontradas podríamos hacerlo como una micro empresa.
+
 ---Apendice--- 
 
 Mapade Calor:
