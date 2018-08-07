@@ -1,0 +1,63 @@
+
+function (doc) {
+  var str = doc.text.replace("");
+      str = str.toUpperCase()
+    
+   var pos = str.lastIndexOf("#WORLDCUP");
+   if(pos>=0)
+   {
+    var str = doc.text.replace(/[^a-zA-Z 0-9.]+/g,'');
+    str = str.toUpperCase()
+    emit(doc.user.screen_name, str);
+   }
+   else
+  {
+    var pos = str.lastIndexOf("#CM2018");
+    if(pos>=0)
+    {
+    var str = doc.text.replace(/[^a-zA-Z 0-9.]+/g,'');
+    str = str.toUpperCase()
+    emit(doc.user.screen_name, str);
+    }
+    else
+    {
+      var pos = str.lastIndexOf("#FIFAWORLDCUP");
+      if(pos>=0)
+      {
+        var str = doc.text.replace(/[^a-zA-Z 0-9.]+/g,'');
+        str = str.toUpperCase()
+        emit(doc.user.screen_name, str);
+       }
+      else
+        {
+          var pos = str.lastIndexOf("@WORLDCUP");
+          if(pos>=0)
+         {
+           var str = doc.text.replace(/[^a-zA-Z 0-9.]+/g,'');
+           str = str.toUpperCase()
+           emit(doc.user.screen_name, str);
+         }
+         else
+         {
+           var pos = str.lastIndexOf("@CM2018");
+           if(pos>=0)
+           {
+	     var str = doc.text.replace(/[^a-zA-Z 0-9.]+/g,'');
+	     str = str.toUpperCase()
+             emit(doc.user.screen_name, str);
+           }
+           else
+           {
+             var pos = str.lastIndexOf("@FIFAWORLDCUP");
+             if(pos>=0)
+           {
+	     var str = doc.text.replace(/[^a-zA-Z 0-9.]+/g,'');
+	     str = str.toUpperCase()
+             emit(doc.user.screen_name, str);
+           } 
+           }
+         }
+       }
+     }
+ }	
+}
