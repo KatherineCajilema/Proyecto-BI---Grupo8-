@@ -19,3 +19,10 @@ Como resultado podemos tener en cuenta que muchas veces que al momento de filtra
 Concluimos que hacer un análisis de datos es importante para saber lo que la gente piensa además que es útil para las empresas.
 El cambio de idioma es importante para tener una base de datos más amplia a pesar de que en cada país tiene sus propias palabras que hacen que siga habiendo tweets neutrales. 
 Las herramientas usadas son unas de las más factibles a pesar de que se podría mejor con otras herramientas.
+
+---Apendice--- 
+Mapade Calor:
+https://www.youtube.com/watch?v=5GjZu3ovkR4
+Configuración de recoleción de tweets:
+Proyecto-BI---Grupo8-/Proyecto/Recolecion Tweets/Configuración.txt
+
