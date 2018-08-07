@@ -1,6 +1,6 @@
 # Proyecto-BI---Grupo8
 Grupo # 8 
-Integrantes: Cajilema Katherine - Guamán Diego - Moreno David 
+Integrantes: Cajilema Katherine - Guamán Diego - Moreno David ---------------------
 Primero hacer la recolección de tweets y seguir os pasos que está en el archivo .txt 
 En el análisis de dato, las bases de datos que tenemos de ChouchDB creamos una vista de la base de datos necesaria e usar el documento
 “ Script de la vista”. Lo cual este script nos da una vista sin Caracteres especiales en un lenguaje especifico y en la fecha necesaria.
