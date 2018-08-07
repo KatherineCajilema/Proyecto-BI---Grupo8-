@@ -1,0 +1,11 @@
+1.- Video para obtener sus credenciales de desarrollador en Twitter: 
+https://youtu.be/KEILpRCDrIY
+
+2.- Tutorial para instalar CouchDB (base de datos NoSQL) en Ubuntu
+
+https://www.digitalocean.com/community/tutorials/how-to-install-couchdb-and-futon-on-ubuntu-14-04
+
+3.- Una vez que tengan sus credenciales de Twitter y hayan instalado CouchDB, 
+pueden cambiar las lineas de codigo especificadas en el script de Python 
+(harvester_uio.py) que les he adjuntado
+
