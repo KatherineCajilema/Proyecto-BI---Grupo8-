@@ -21,8 +21,10 @@ El cambio de idioma es importante para tener una base de datos más amplia a pes
 Las herramientas usadas son unas de las más factibles a pesar de que se podría mejor con otras herramientas.
 
 ---Apendice--- 
+
 Mapade Calor:
 https://www.youtube.com/watch?v=5GjZu3ovkR4
+
 Configuración de recoleción de tweets:
 Proyecto-BI---Grupo8-/Proyecto/Recolecion Tweets/Configuración.txt
 
